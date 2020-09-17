@@ -13,4 +13,10 @@ public class MainTest {
     public void testmyz(){
         System.out.println("这是myz的开发内容");
     }
+
+    public void testMaster(){
+        System.out.println("这是master的方法");
+    }
+
+
 }
