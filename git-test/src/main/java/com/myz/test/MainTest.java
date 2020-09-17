@@ -9,4 +9,8 @@ public class MainTest {
     public void testSout(){
         System.out.println("测试打印输出");
     }
+
+    public void testmyz(){
+        System.out.println("这是myz的开发内容");
+    }
 }
