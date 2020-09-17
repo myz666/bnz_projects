@@ -6,4 +6,7 @@ public class MainTest {
     }
 
 
+    public void testSout(){
+        System.out.println("测试打印输出");
+    }
 }
